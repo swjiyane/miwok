@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item
+    android:title="Choose language">
+</item>
+
+    <item
+        android:title="Default(English)"
+        android:id="@+id/defaultmiwok">
+
+    </item>
+
+    <item
+    android:title="Isizulu"
+    android:id="@+id/isizulu">
+
+    </item>
+
+<item
+    android:title="Sepedi"
+    android:id="@+id/sepedi">
+</item>
+
+<item
+    android:title="Venda"
+    android:id="@+id/venda">
+</item>
+
+<item
+    android:title="Tsonga"
+    android:id="@+id/tsonga">
+
+</item>
+
+    <item
+        android:title="Afrikaans"
+        android:id="@+id/afrikaans">
+
+    </item>
+
+</menu>
